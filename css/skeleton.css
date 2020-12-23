@@ -51,8 +51,14 @@
   text-align: center;
 }
 
-h5{
+h2{
   padding-top: 1.5rem;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+p{
+  text-align: justify;
 }
 
 /* Grid
